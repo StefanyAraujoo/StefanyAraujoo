@@ -1,7 +1,9 @@
 # 👋 Olá! Bem-vindo ao meu perfil no Github.
 ### Estudante de Desenvolvimento de Sistemas 👩‍💻
 🎓Me chamo Stefany do Nascimento Araujo!
+<br>
 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI Jacob Lafer e sigo evoluindo na área de tecnologia.
+<br>
 📍 ABC - São Paulo  
 
 
@@ -29,4 +31,4 @@ Atualmente estou cursando Desenvolvimento de Sistemas no SENAI Jacob Lafer e sig
 
 ## 🌐 Conecte-se comigo
 
-![Gmail Badge](https://img.shields.io/badge/-leonardo091007@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-stefanyna29@gmail.com-red?style=flat&logo=Gmail&logoColor=white)
